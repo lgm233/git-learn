@@ -1,1 +1,3 @@
-console.log('hello world')
+const { aa } = require("./mod");
+
+console.log('hello world',aa)

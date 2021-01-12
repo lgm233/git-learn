@@ -1,1 +1,1 @@
-export const aa = 1
+exports.aa = 1
